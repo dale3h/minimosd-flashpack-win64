@@ -1,0 +1,3 @@
+ftdiserial.name=FTDI Adapter (5V)
+ftdiserial.communication=usb
+ftdiserial.protocol=stk500v2
