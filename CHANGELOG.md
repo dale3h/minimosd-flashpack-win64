@@ -1,3 +1,17 @@
+## 0.9.4 (2015-04-20)
+
+Features:
+
+  - Added new MW OSD versions
+    - R1.3 SP2
+    - R1.3 SP1
+    - R1.3 SP0
+  - Added old MW OSD versions
+    - R1.2
+    - R1.1
+    - R1.0
+  - Added KV Team OSD 2.3
+
 ## 0.9.3 (2015-04-17)
 
 Features:
